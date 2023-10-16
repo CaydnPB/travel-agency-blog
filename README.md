@@ -1,22 +1,60 @@
-![logo](https://user-images.githubusercontent.com/44912347/201777855-5f12766c-fd1f-4601-90d2-452af55fed8a.jpg)
+<h1 align="center">Mac and Windows</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/44912347/202244850-18dbf275-11cf-44b5-9500-b2fcb5d44d05.jpg" alt="Logo">
 
-# Tavel Agency Blog
-**GOAL**: Create a simple travel agency landing page in pure HTML. You can do it for any location that you like to visit. Don't know where to do? Make one for Paris!
+# Mac and Windows
+**TASK**: Design a page that marks up some content, and will display information about Mac and Windows. The final page should look similar in structure to the one shown below:
 
-<img width="505" alt="Screenshot 2022-11-14 at 5 08 14 PM" src="https://user-images.githubusercontent.com/44912347/201778552-88c2c9e5-f258-4a88-83b5-ddf245353a14.png">
-
-***NOTE: The final project will not have images or links, but you can research how to add these in!***
+![Exemplar](./Exemplar.png)
 
 ## Project Specs
-Your final page should have all of the following:
+1. Create some boilerplate HTML in your index.html file.
+2. Give your page a `<title>`
+3. Create a `<h1>` tag of your choice to grab the users attention to the Mac or Windows
+4. Create a subtitle for both Apple and Windows your page using your choice of `<h2>` through `<h6>` tags. 
+5. Include a `<p>` element under each subtile describing the laptops you will be showcasing.
+6. Include an `<ol>` element of the top 3 laptops for each branch.
+7. Include an `<ul>` element with 3 prices of your laptops. These prices could be based on a real product or could be made up
+8. Use a `<strong>` tag to bold some of the text. [Check out the docs](https://www.w3schools.com/tags/tag_strong.asp) if you don't know how to use this!
+9. Commit and push your final work back to GitHub!
 
-### Files
-- An `index.html` file with boilerplate code.
+## Stretch Tasks 🚀
+1. Find 3 images of Mac or Windows Laptops and add these files to your project folder.
+2. Render each of the images using an `<img>` tag. Be sure to add `alt` attribute to each describing what the image is.
+    - [`<img>` Tag Docs](https://www.w3schools.com/tags/tag_img.asp)
+3. Include an `<a>` tag to Apple's Website or Microsoft Website 
+    - [`<a>` Tag Docs](https://www.w3schools.com/tags/tag_a.asp)
+4. Create two `<div>` elements in your page that wrap around each of your sections. One for Mac and one for Windows:
+    - Create one `<div>` with `id="mac"` and one `<div>` with `id="windows"`
+    - Give each `<div>` a class of `"laptops"`
+    - [`<div>` Tag Docs](https://www.w3schools.com/tags/tag_div.asp)
+    - [HTML Class Attribute Docs](https://www.w3schools.com/html/html_classes.asp)
+    - [HTML ID Attribute Docs](https://www.w3schools.com/html/html_id.asp)
 
-### Tags
-- A `title` tag within the `head` tag that contains the title of your page
-- A page title that uses a `h1` tag
-- A tagline beneath the title that uses a `h3` tag.
-- At least one sentence describing your travel agency using a `p` tag to contain the text.
-- Create a bulleted list that will contain a list of sites to see in the location you are describing
-- Create a numbered list that will hold an itinerary. This can describe the top 5 things to do in the location you are describing
+![Mac Stretch Example](./StretchMac.png)
+![Mac Stretch Example](./StretchWindows.png)
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
